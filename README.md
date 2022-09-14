@@ -1,4 +1,3 @@
-# SimpleCalculator
-Simple Calculator - Individual Project
+# SimpleCalculator - Individual Project
 
-This project uses the Java Swing GUI and AWT, specifically MigLayout manager, to create a simple calculator.
+The goal for this project was to create a fully functional calculator app with a user-friendly GUI (graphical user interface), which does not require technical expertise to use. The app contains calculator functionalities developed using the Java Swing and AWT libraries.
